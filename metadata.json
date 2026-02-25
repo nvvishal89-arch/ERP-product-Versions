@@ -1,0 +1,7 @@
+{
+  "name": "ERP Product Vision API",
+  "description": "An ERP integration tool that retrieves product images from SQLite and generates multi-angle views using Gemini 2.5 Flash Image (Nano Banana) or finds them via Google Search.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
