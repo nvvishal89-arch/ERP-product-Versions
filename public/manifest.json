@@ -1,0 +1,21 @@
+{
+  "name": "Blueprint AI Pro",
+  "short_name": "BlueprintAI",
+  "description": "AI-Powered Engineering Blueprint Generator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/blueprint/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/blueprint/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
